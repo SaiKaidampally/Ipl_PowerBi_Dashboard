@@ -83,7 +83,7 @@ Edit
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/IPL-2025-Dashboard.git
+   git clone https://github.com/SaiKaidampally/IPL-2025-Dashboard.git
 Open IPL 2025 Analysis.pbix in Power BI Desktop
 
 Refresh the data if needed or load from the provided Excel file
